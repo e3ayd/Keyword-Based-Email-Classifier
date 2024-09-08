@@ -1,0 +1,7 @@
+### Explanation:
+
+- **Keyword-Based Classification**: This project uses predefined keywords to categorize emails, making it an effective tool for email management.
+- **Text Processing**: Demonstrates basic text processing and pattern matching in Python.
+- **Scalability**: The keyword categories can be easily expanded or modified based on the user's needs.
+
+This project is more advanced than simple scripts and provides a practical use case for text classification.
